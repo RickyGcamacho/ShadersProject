@@ -1,0 +1,2 @@
+Los Post Procesos opacan otros shaders, para verlos todos bien es mejor desactivar los post procesos
+The Post Processes overshadow other shaders, to see them all well it is better to deactivate the post processes
