@@ -1,2 +1,1 @@
-Los Post Procesos opacan otros shaders, para verlos todos bien es mejor desactivar los post procesos
-The Post Processes overshadow other shaders, to see them all well it is better to deactivate the post processes
+hay 4 builds con un post proceso cada una, para poder ver correctamente los shaders y los materiales de cada objeto
